@@ -1,52 +1,88 @@
-# Hola, soy Jesus Eduardo 👋
+<div align="center">
 
-Soy estudiante de **Ingeniería en Tecnologías de la Información e Innovación Digital** y desarrollador de software junior enfocado en el desarrollo web, backend y proyectos con inteligencia artificial.
+# Jesus Eduardo Vazquez Rodriguez
 
-Actualmente estoy fortaleciendo mis habilidades en **Laravel, PHP, MySQL, React, Python, Flask y buenas prácticas de desarrollo de software**.
+### Software Development Student focused on Web Development, Backend, APIs and AI Projects.
 
-## Sobre mí
+<br>
 
-- Estudiante de TI en la Universidad Tecnológica de Tehuacán.
-- Interés principal: desarrollo web, backend y aplicaciones con IA.
-- Experiencia académica y práctica en proyectos con Laravel, Flask, React, MySQL y Python.
-- Me interesa crear soluciones útiles, ordenadas y fáciles de mantener.
+<a href="mailto:TU_CORREO_AQUI">
+  <img src="https://img.shields.io/badge/Email-Contact-1f2937?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## Tecnologías que uso
+<a href="https://github.com/Eduvarj">
+  <img src="https://img.shields.io/badge/GitHub-Eduvarj-1f2937?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Frontend:**
-HTML, CSS, JavaScript, React, Tailwind CSS
+</div>
 
-**Backend:**
-PHP, Laravel, Python, Flask, Node.js
+---
 
-**Bases de datos:**
-MySQL, SQLite
+## Stack
 
-**Herramientas:**
-Git, GitHub, VS Code, XAMPP, Laragon, Android Studio
+<div align="center">
 
-## Proyectos destacados
+### Frontend
 
-### Red neuronal para riesgo de abandono escolar
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
 
-Proyecto académico desarrollado con Python y Flask para estimar el riesgo de abandono escolar usando datos como asistencia, promedio, materias reprobadas y carga académica.
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,flask,nodejs,express" />
+
+<br><br>
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman" />
+
+</div>
+
+---
+
+## Current Focus
+
+Actualmente estoy fortaleciendo mis habilidades como desarrollador de software junior, principalmente en:
+
+- Desarrollo web con **Laravel, PHP, React y Tailwind CSS**.
+- Backend, APIs, bases de datos y arquitectura de proyectos.
+- Proyectos académicos con **Python, Flask e Inteligencia Artificial**.
+- Buenas prácticas con Git, GitHub, documentación y pruebas de software.
+
+---
+
+## Featured Projects
+
+### Neural Network - Student Dropout Risk
+
+Academic project developed with **Python, Flask and Machine Learning** to estimate student dropout risk using academic data such as attendance, grades, failed subjects and weekly workload.
 
 ### ClotheMe
 
-Aplicación desarrollada con TypeScript orientada a la gestión o presentación de prendas y contenido relacionado con moda.
+Frontend project developed with **TypeScript**, focused on visual structure, components and user interface practice.
 
-### Proyectos con Laravel
+### Laravel Projects
 
-Prácticas y desarrollos enfocados en backend, bases de datos, formularios, autenticación y arquitectura web.
+Academic and personal projects focused on backend development, database management, authentication, forms and web architecture.
 
-## Actualmente aprendiendo
+---
 
-- Mejores prácticas en backend.
-- Arquitectura de proyectos.
-- Pruebas de software.
-- Integración de IA en aplicaciones web.
-- Despliegue y documentación de proyectos.
+## GitHub Stats
 
-## Contacto
+<div align="center">
 
-Puedes revisar mis proyectos aquí en GitHub. Estoy construyendo mi portafolio paso a paso y mejorando mis habilidades como desarrollador de software.
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eduvarj&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduvarj&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## About Me
+
+Soy estudiante de **Ingeniería en Tecnologías de la Información e Innovación Digital** en la Universidad Tecnológica de Tehuacán.
+
+Me interesa construir soluciones útiles, ordenadas y fáciles de mantener, combinando desarrollo web, backend, bases de datos e inteligencia artificial.
