@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="mailto:TU_CORREO_AQUI">
+<a href="mailto:eduardvaz123z.58@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-1f2937?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
