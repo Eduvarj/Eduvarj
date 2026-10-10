@@ -2,7 +2,7 @@
 
 # Jesus Eduardo Vazquez Rodriguez
 
-**Software Development Student focused on Web Development, Backend, APIs and Management Systems.**
+**Junior Software Developer focused on Web Development, Backend, APIs and Management Systems.**
 
 <br>
 
@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/GitHub-Eduvarj-1f2937?style=flat-square&logo=github&logoColor=white" />
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=Eduvarj&style=flat-square&color=1f2937" />
+
 </div>
 
 ---
@@ -22,11 +24,15 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,php,java,kotlin,mysql" />
+<img src="https://skillicons.dev/icons?i=laravel,php,react,nodejs,express,mysql" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,git,github,figma,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=js,html,css,tailwind,git,github" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,java,kotlin" />
 
 </div>
 
@@ -34,10 +40,10 @@
 
 ## Current Focus
 
-- Web development with **Laravel, React and MySQL**.
+- Web development with **Laravel, PHP, React and MySQL**.
 - Backend development, APIs and database management.
 - Building management systems and academic software projects.
-- Improving my skills in software architecture, testing and documentation.
+- Improving my skills in software architecture, testing, documentation and Git workflow.
 
 ---
 
@@ -64,6 +70,16 @@ Web development projects focused on backend, authentication, forms, databases an
 <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Eduvarj&show_icons=true&theme=github_dark&hide_border=true" />
 
 <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduvarj&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduvarj&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
